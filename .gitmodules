@@ -1,3 +1,9 @@
 [submodule "portable_g_utils"]
 	path = portable_g_utils
 	url = ../portable_g_utils
+[submodule "misc/VUPlayer.wiki"]
+	path = misc/VUPlayer.wiki
+	url = ../VUPlayer.wiki
+[submodule "misc/waxyapi"]
+	path = misc/waxyapi
+	url = ../waxyapi
